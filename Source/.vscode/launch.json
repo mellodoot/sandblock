@@ -8,7 +8,7 @@
             "type": "java",
             "name": "Launch Game",
             "request": "launch",
-            "mainClass": "net.heyitsultra.sandblock.Client.Game",
+            "mainClass": "com.mellodoot.sandblock.Client.Game",
             "projectName": "Sandblock"
         },
         {
