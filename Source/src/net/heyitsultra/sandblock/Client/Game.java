@@ -12,7 +12,6 @@ import org.gamejolt.*;
 import org.gamejolt.Trophy.*;
 
 import net.heyitsultra.UltraNet.serialization.*;
-import net.heyitsultra.sandblock.Client.Client;
 import net.heyitsultra.sandblock.Client.Entity.Mob.*;
 import net.heyitsultra.sandblock.Client.Graphics.*;
 import net.heyitsultra.sandblock.Client.Graphics.Font;
@@ -34,7 +33,7 @@ public class Game extends Canvas implements Runnable {
 	public boolean debug = false;
 	public boolean ingame;
 	public int actualWidth = 1280; //
-	public int actualHeight = 700;
+	public int actualHeight = 720;
 	public int scale = 3, //
 					width = actualWidth / scale, //
 					height = actualHeight / scale; //
