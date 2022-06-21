@@ -9,7 +9,7 @@ here's an old game I started aaages ago! it took a hell of a lot of refactoring 
 
 feel free to play it or mod the code how you like- I don't see myself doing much more with this dinky little project so go nuts!
 
-who knows, I may even work on another java project in the future- I'm personally a lot more excited to move on to C++, though :)
+who knows, I may even work on another java project in the future- I'm personally a lot more excited to move on to proper game engines and lower-level languages, though :)
 
 ---
 
